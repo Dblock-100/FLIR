@@ -1,8 +1,5 @@
-# SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
-# SPDX-License-Identifier: MIT
-
-"""This example is for Raspberry Pi (Linux) only!
-   It will not work on microcontrollers running CircuitPython!"""
+***Raspberry Pi (Linux) only!
+   It will not work on microcontrollers running CircuitPython!***
 
 import os
 import math
