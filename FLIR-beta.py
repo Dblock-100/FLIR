@@ -1,6 +1,3 @@
-***Raspberry Pi (Linux) only!
-   It will not work on microcontrollers running CircuitPython!***
-
 import os
 import math
 import time
